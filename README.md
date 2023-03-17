@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KuangDaDa
-- 👀 I’m interested in Python web development, espically in django.
+- 👀 I’m interested in web development.I specialize python and javascript.
 - 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on free and open source project
 - 📫 How to reach me through nanosheng222@gmail.com
 
 <!---
